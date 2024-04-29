@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # Hello, I'm Siddhesh Jadhav ! 👋
 
-[Short description about yourself and what you do]
+
+I'm Siddhesh Jadhav, a dedicated software developer with a passion for creating innovative mobile and web applications. My expertise lies in Flutter, Android Studio, React.js, and Node.js, allowing me to craft intuitive and efficient solutions for various platforms. I enjoy tackling new challenges and constantly strive to expand my skills in the ever-evolving field of software development.
 
 ## 🚀 My Projects
 
