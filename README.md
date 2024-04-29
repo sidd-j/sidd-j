@@ -62,3 +62,6 @@ I'm Siddhesh Jadhav, a dedicated software developer with a passion for creating 
 
 
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidd-j)
+
+
+[![](https://visitcount.itsvg.in/api?id=sidd-j&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
