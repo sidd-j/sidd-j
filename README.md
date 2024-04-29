@@ -26,9 +26,9 @@ I enjoy tackling new challenges and constantly strive to expand my skills in the
 
 ## 🛠️ My Tech Stack
 
-- **Languages:** Flutter, Dart, JavaScript, Java, Python, C++
-- **Frameworks/Libraries:** Flutter, React.js, Node.js, Android SDK
-- **Tools:** Android Studio, Visual Studio Code, Git, GitHub
+- **Languages:** Dart, JavaScript, Java, Python, C++, Kotlin 
+- **Frameworks/Libraries:** Flutter, React.js, Node.js, Android SDK , React Native
+- **Tools:** Android Studio, Visual Studio Code, Git, GitHub, Blender
 
 
 
