@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hello, I'm Siddhesh Jadhav ! 👋
+
+[Short description about yourself and what you do]
+
+## 🚀 My Projects
+
+### News Application (https://github.com/sidd-j/NewsAPp-AndroidStudio-.git)
+- New Application Using New York Times API
+- Android Studio , New York Times API
+
+###Grocerry App (https://github.com/sidd-j/GroceryApp.git)
+- Grocerry website to add grocery to your cart using react.js can calculate total amount of items in your cart
+- React.js , Node.js
+
+## 📚 My Skills
+- Flutter
+- Android Studio
+- Reactjs
+- React Native
+- Java
+- Python
+- C++
+
+## 📫 Get in Touch
+
+- LinkedIn: [Siddhesh Jadhav](www.linkedin.com/in/siddhesh-jadhav-238b5a177
+
+)
+- Email: jsiddhesh40@gmail.com
