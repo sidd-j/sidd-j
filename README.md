@@ -23,6 +23,15 @@ I'm Siddhesh Jadhav, a dedicated software developer with a passion for creating 
 My expertise lies in Flutter, Android Studio, React.js, and Node.js,React Native allowing me to craft intuitive and efficient solutions for various platforms.
 I enjoy tackling new challenges and constantly strive to expand my skills in the ever-evolving field of software development.
 
+
+## 🛠️ My Tech Stack
+
+- **Languages:** Flutter, Dart, JavaScript, Java, Python, C++
+- **Frameworks/Libraries:** Flutter, React.js, Node.js, Android SDK
+- **Tools:** Android Studio, Visual Studio Code, Git, GitHub
+
+
+
 ## 🚀 My Projects
 
 ### News Application (https://github.com/sidd-j/NewsAPp-AndroidStudio-.git)
